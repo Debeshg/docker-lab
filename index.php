@@ -71,6 +71,7 @@ $result = $conn->query($sql);
   </div>
 </nav>
     <div class="container">
+<p> “To err is human, but to really foul things up you need a computer.” – Paul Ehrlich</p>
         <h1 class="mb-4">Users</h1>
         <table class="table table-striped">
             <thead>
